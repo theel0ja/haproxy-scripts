@@ -4,11 +4,4 @@ My Haproxy scripts
 
 ## Combined certs without Docker
 
-Tested on Debian 9.
-
-Create cert folder:
-
-```bash
-sudo mkdir /certs/
-sudo chmod 700 /certs/
-```
+See [wiki entry](https://wiki.lelux.fi/haproxy/#lets-encrypt).
